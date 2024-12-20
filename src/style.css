@@ -62,3 +62,11 @@ body{
     height: 30rem;
     color: white;
 }
+
+p {
+    padding: 5em;
+}
+
+h1 {
+    padding: 5em;
+}

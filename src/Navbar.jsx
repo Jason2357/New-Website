@@ -10,9 +10,6 @@ export default function Navbar() {
                         <Link to="/GameCenter">Game Center</Link>
                     </li>
                     <li>
-                        <a href="./games.html">games</a>
-                    </li>
-                    <li>
                         <a href="#aboutSection">About</a>
                     </li>
                 </ul>
