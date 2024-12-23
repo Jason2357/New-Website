@@ -7,7 +7,10 @@ export default function Navbar() {
                 <Link to="/">My Website</Link>
                 <ul className='navBarList'>
                     <li>
-                        <Link to="/GameCenter">Game Center</Link>
+                        <a href="#introductionSection">Introduction</a>
+                    </li>
+                    <li>
+                        <a href="#projectsSection">Projects</a>
                     </li>
                     <li>
                         <a href="#aboutSection">About</a>
